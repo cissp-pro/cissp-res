@@ -17,8 +17,8 @@
 - [IT Dojo - Questions](https://www.youtube.com/watch?v=jZSAZ1neFZk&list=PLBpnwlO9U5unYmbZp2DJETNOHg8s_yW37)
 
 **Practice Question Engine**
--[LearnZapp - CISSP](https://learnzapp.com/apps/cissp/index.html)
--[Boson - CISSP](https://www.boson.com/practice-exam/cissp-isc2-practice-exam)
+- [LearnZapp - CISSP](https://learnzapp.com/apps/cissp/index.html)
+- [Boson - CISSP](https://www.boson.com/practice-exam/cissp-isc2-practice-exam)
 
 **Paid Courses**
 - [Cybrary IT](https://www.cybrary.it/course/cissp)

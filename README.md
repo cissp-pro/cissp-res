@@ -15,7 +15,6 @@
 - [50 CISSP Practice Questions. Master the CISSP Mindset](https://www.youtube.com/watch?v=qbVY0Cg8Ntw)
 - [Destination Certification - Questions](https://www.youtube.com/watch?v=tGdeTS7AN1c&list=PLZKdGEfEyJhKj-23-CysVjNRctFw47CGc)
 - [IT Dojo - Questions](https://www.youtube.com/watch?v=jZSAZ1neFZk&list=PLBpnwlO9U5unYmbZp2DJETNOHg8s_yW37)
-- 
 
 **Paid Courses**
 - [Cybrary IT](https://www.cybrary.it/course/cissp)

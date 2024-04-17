@@ -36,3 +36,4 @@
 - [Destination Certification - Concise Guide](https://www.amazon.ca/Destination-CISSP-Concise-Rob-Witcher/dp/B0BT1Y6DYL)
 - [Luke Ahmed - How to Think Like a Manager](https://www.amazon.ca/Think-Like-Manager-CISSP-Exam-ebook/dp/B08D9L1BTF/)
 
+<a href="https://www.example.com" target="_blank">Visit Example</a>

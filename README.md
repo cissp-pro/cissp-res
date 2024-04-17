@@ -29,5 +29,6 @@
   - [Source](https://www.comparitech.com/blog/information-security/cissp-certification-courses/#Cheat_sheets_for_studying_for_the_CISSP_exam)
 
 **Books**
--[Official Study Guide](https://www.amazon.ca/Certified-Information-Security-Professional-Official/dp/1119475937)
+
+- [Official Study Guide](https://www.amazon.ca/Certified-Information-Security-Professional-Official/dp/1119475937)
 

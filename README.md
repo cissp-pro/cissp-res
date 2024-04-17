@@ -33,7 +33,12 @@
 **Summarized Information**
 - [Sunflower CISSP Layout](https://www.sunflower-cissp.com/downloads/sunflower_cissp_layout.pdf).
 - [Comparitech Cheat Sheet](/files/Comparitech%20CISSP%20Cheat%20Sheet.pdf)
-  - [Source](https://www.comparitech.com/blog/information-security/cissp-certification-courses/#Cheat_sheets_for_studying_for_the_CISSP_exam)
+ 
+**Other CISSP Github Repositories**
+[so87 - CISSP Study Guide](https://simonowens157.gitlab.io/cissp/)
+[Jan Petzold - CISSP Study Guide](https://github.com/janpetzold/cissp-summary)
+[CISSP Mindmaps](https://github.com/yyds-page/cissp-mind-map)
+[Awesome CISSP Guide](https://github.com/connectans/awesome-CISSP-CCSP)
 
 **Books**
 - [Official Study Guide](https://www.amazon.ca/Certified-Information-Security-Professional-Official/dp/1119475937)

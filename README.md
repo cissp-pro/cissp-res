@@ -22,9 +22,13 @@
 
 **Paid Courses**
 - [Cybrary IT](https://www.cybrary.it/course/cissp)
+- [CCCure CISSP (Latest CBK - 2021)](https://cccure.education/certification/certificate-detail/cissp-latest-cbk-2021)
 - [Destination Certification](https://destcert.com/cissp/)
 - [Technical Institute of America](https://www.tiaedu.com/training_cissp_course_ny.html)
 - [Thor Teaches](https://thorteaches.com/cissp/)
+
+**No Cost Training**
+- [FRSecure CISSP Mentor Program](https://frsecure.com/cissp-mentor-program/)
 
 **CISSP Communities**
 - [Discord Cert Station](https://discord.gg/YzyBNNSHDZ)

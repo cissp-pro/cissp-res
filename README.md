@@ -22,9 +22,11 @@
 - [WannaPractice - CISSP](https://www.wannapractice.com/)
 
 **Paid Courses**
+- [Beinfosec - CISSP](https://beinfosec.com/training/)
 - [Cybrary IT](https://www.cybrary.it/course/cissp)
 - [CCCure CISSP (Latest CBK - 2021)](https://cccure.education/certification/certificate-detail/cissp-latest-cbk-2021)
 - [Destination Certification](https://destcert.com/cissp/)
+- [Mike Chapple - LinkedIn CISSP Course](https://www.linkedin.com/learning/paths/prepare-for-the-isc2-information-systems-security-professional-cissp-certification-exam-2021)
 - [Technical Institute of America](https://www.tiaedu.com/training_cissp_course_ny.html)
 - [Thor Teaches](https://thorteaches.com/cissp/)
 

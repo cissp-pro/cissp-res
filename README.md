@@ -19,6 +19,7 @@
 **Practice Question Engine**
 - [LearnZapp - CISSP](https://learnzapp.com/apps/cissp/index.html)
 - [Boson - CISSP](https://www.boson.com/practice-exam/cissp-isc2-practice-exam)
+- [WannaPractice - CISSP](https://www.wannapractice.com/)
 
 **Paid Courses**
 - [Cybrary IT](https://www.cybrary.it/course/cissp)

@@ -1,20 +1,20 @@
 **Youtube Series**
-- [Destination Certification - CISSP MindMaps](https://www.youtube.com/playlist?list=PLZKdGEfEyJhLd-pJhAD7dNbJyUgpqI4pu)
-- [Pete Zerger - CISSP Exam Cram Full Course (All 8 Domains)](https://www.youtube.com/watch?v=_nyZhYnCNLA)
-- [Pete Zerger - CISSP Exam Cram - 2024 Addendum](https://www.youtube.com/watch?v=XZr2wLKdoVc)
+- [Destination Certification - CISSP MindMaps](https://www.youtube.com/playlist?list=PLZKdGEfEyJhLd-pJhAD7dNbJyUgpqI4pu) Youtube
+- [Pete Zerger - CISSP Exam Cram Full Course (All 8 Domains)](https://www.youtube.com/watch?v=_nyZhYnCNLA) Youtube
+- [Pete Zerger - CISSP Exam Cram - 2024 Addendum](https://www.youtube.com/watch?v=XZr2wLKdoVc) Youtube
 
-**CISSP Mindset**
-- [50 CISSP Practice Questions. Master the CISSP Mindset](https://www.youtube.com/watch?v=qbVY0Cg8Ntw)
-- [Gwen Bettwy - Think like a Manager](https://www.youtube.com/watch?v=8LtRKKtdP3I)
-- [Pete Zerger - How to think like a Manager](https://www.youtube.com/watch?v=vfC9OLsCqgk)
-- [Kelly Handerhan - Why will you pass the CISSP](https://www.youtube.com/watch?v=v2Y6Zog8h2A)
+**CISSP Mindset** 
+- [50 CISSP Practice Questions. Master the CISSP Mindset](https://www.youtube.com/watch?v=qbVY0Cg8Ntw) Youtube
+- [Gwen Bettwy - Think like a Manager](https://www.youtube.com/watch?v=8LtRKKtdP3I) Youtube
+- [Pete Zerger - How to think like a Manager](https://www.youtube.com/watch?v=vfC9OLsCqgk) Youtube
+- [Kelly Handerhan - Why will you pass the CISSP](https://www.youtube.com/watch?v=v2Y6Zog8h2A) Youtube
 
 **Questions and Answers**
-- [Gwen Bettwy - Question Series](https://www.youtube.com/playlist?list=PLrjhjv3vQi5DZ3FO0Eb-iMJoI4RzoANOw)
-- [Prabh Nair - Question Series](https://www.youtube.com/playlist?list=PL0hT6hgexlYxZWJFIZbOqpkbKCT3u0ILe)
-- [50 CISSP Practice Questions. Master the CISSP Mindset](https://www.youtube.com/watch?v=qbVY0Cg8Ntw)
-- [Destination Certification - Questions](https://www.youtube.com/watch?v=tGdeTS7AN1c&list=PLZKdGEfEyJhKj-23-CysVjNRctFw47CGc)
-- [IT Dojo - Questions](https://www.youtube.com/watch?v=jZSAZ1neFZk&list=PLBpnwlO9U5unYmbZp2DJETNOHg8s_yW37)
+- [Gwen Bettwy - Question Series](https://www.youtube.com/playlist?list=PLrjhjv3vQi5DZ3FO0Eb-iMJoI4RzoANOw) Youtube
+- [Prabh Nair - Question Series](https://www.youtube.com/playlist?list=PL0hT6hgexlYxZWJFIZbOqpkbKCT3u0ILe) Youtube
+- [50 CISSP Practice Questions. Master the CISSP Mindset](https://www.youtube.com/watch?v=qbVY0Cg8Ntw) Youtube
+- [Destination Certification - Questions](https://www.youtube.com/watch?v=tGdeTS7AN1c&list=PLZKdGEfEyJhKj-23-CysVjNRctFw47CGc) Youtube
+- [IT Dojo - Questions](https://www.youtube.com/watch?v=jZSAZ1neFZk&list=PLBpnwlO9U5unYmbZp2DJETNOHg8s_yW37) Youtube
 
 **Practice Question Engine**
 - [LearnZapp - CISSP](https://learnzapp.com/apps/cissp/index.html)
